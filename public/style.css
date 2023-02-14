@@ -1,0 +1,47 @@
+body {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+
+
+
+.form-section {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+
+h1 {
+  font-size: xxx-large;
+}
+
+.url-form {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+
+.url-input-box {
+  height: 30px;
+  width: 40vw;
+  font-size: inherit;
+}
+
+.submit-button {
+  width: 120px;
+  height: 50px;
+  font-size: 25px;
+  border-radius: 10px;
+  color: white;
+  background-color: #00897b;
+}
+
+
+.form-result {
+  font-size: x-large;
+  margin-top: inherit;
+}
